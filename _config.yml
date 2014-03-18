@@ -2,3 +2,7 @@ safe: true
 lsi: false
 pygments: true
 source: .
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
